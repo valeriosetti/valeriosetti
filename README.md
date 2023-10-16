@@ -1,4 +1,8 @@
-I'm a passionate embedded developer mainly focusing microcontrollers based on RTOS and Linux (Kernel & Yocto) 💻 🔍
+🧑‍🦱 **Brief introduction**
+
+I'm a passionate embedded developer mainly focusing microcontrollers based on RTOS and Linux (Kernel & Yocto) 💻 🐧 
+
+I work [@BayLibre](https://baylibre.com/)
 
 👯 **Open source contributions**
 
@@ -13,7 +17,7 @@ I'm a passionate embedded developer mainly focusing microcontrollers based on RT
   - Minor fixes to the log system
   - Drivers' development
 
-🏠 **Personal projects**
+🏠 **Personal projects (relevant ones)**
 
 - https://github.com/valeriosetti/ergodash-low ⌨️
   - It's an improvement of the already existing [ErgoDash](https://github.com/omkbd/ErgoDash) split keyboard in order to:
