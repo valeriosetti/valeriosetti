@@ -16,6 +16,11 @@ I work [@BayLibre](https://baylibre.com/)
   - [My contributions](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Avaleriosetti+)
   - Minor fixes to the log system
   - Drivers' development
+ 
+- [Trampoline RTOS](https://github.com/TrampolineRTOS/trampoline)
+  - [My contributions](https://github.com/TrampolineRTOS/trampoline/pulls?q=is%3Apr+author%3Avaleriosetti+)
+  - ICCOM driver on Spider platform (both on G4MH and Cortex-R52)
+  - Ethernet driver (Rswitch & SerDes) on Spider platform and [LwIP](http://git.savannah.gnu.org/cgit/lwip.git) integration for the provided examples
 
 🏠 **Personal projects (relevant ones)**
 
