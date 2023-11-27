@@ -24,20 +24,20 @@ I work [@BayLibre](https://baylibre.com/)
 
 🏠 **Personal projects (relevant ones)**
 
-- https://github.com/valeriosetti/ergodash-low ⌨️
+- [ErgoDash-Low](https://github.com/valeriosetti/ergodash-low) ⌨️
   - It's an improvement of the already existing [ErgoDash](https://github.com/omkbd/ErgoDash) split keyboard in order to:
     - give it a lower profile
     - use Gatheron low-profile switches instead of the standard profiles ones
 
-- https://github.com/valeriosetti/ploopy-nano-kicad 🖱️
+- [Ploopy-nano Kicad](https://github.com/valeriosetti/ploopy-nano-kicad) 🖱️
   - It's a remake of the famous [Ploopy Nano](https://github.com/ploopyco/nano-trackball) trackball mouse. Reasons for the remake is to provide schematic and PCB in KiCAD intead of Altium as the original project does.
 
-- https://github.com/valeriosetti/dabon-fw 📻
+- [DABon FW](https://github.com/valeriosetti/dabon-fw) 📻
   - A portable (i.e. battery powered) radio and MP3 player based on STM32F407
   - It inregrates the Si4684 chip from SiLab in order to be able to receive both FM and DAB
   - It is based on a rather simple custom cooperative OS developed by me
  
-- https://github.com/valeriosetti/car-stereo 🚙📻
+- [CarPlayer](https://github.com/valeriosetti/car-player) 🚙📻
   - A [buildroot](https://github.com/buildroot/buildroot) and [OrdoidC2](https://www.hardkernel.com/shop/odroid-c2/) based car stero player
   - https://github.com/valeriosetti/linux-amlogic-v6.1 contains my changes to the [mainline Amlogic kernel](https://linux-meson.com/) in order to make it work for my project
  
