@@ -10,12 +10,14 @@ I work [@BayLibre](https://baylibre.com/)
   - [My contributions](https://github.com/Mbed-TLS/mbedtls/pulls?q=is%3Apr+author%3Avaleriosetti+)
   - Improved support for elliptic curves (EC) acceleration through drivers
   - Improved suport for acceleration of EC based algorithms: ECDH, ECDSA, ECJPAKE
-  - Currently working on acceleration for Ciphers and AEAD algorithms
+  - Improved suport for acceleration for Ciphers and AEAD algorithms
+  - PSASIM simulator for a crypto-client setup
 
 - [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
   - [My contributions](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Avaleriosetti+)
+  - Crypto (MbedTLS and TF-M) contributor
+  - Drivers' development (encoders on STM32 devices)
   - Minor fixes to the log system
-  - Drivers' development
  
 - [Trampoline RTOS](https://github.com/TrampolineRTOS/trampoline)
   - [My contributions](https://github.com/TrampolineRTOS/trampoline/pulls?q=is%3Apr+author%3Avaleriosetti+)
